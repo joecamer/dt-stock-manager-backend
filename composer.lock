@@ -1,3 +1,35 @@
+﻿Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Flashelperz 
+joecamer
+/
+dt-stock-manager-backend
+1
+00
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+dt-stock-manager-backend/composer.lock
+@Jordan2204
+Jordan2204 Premier test
+Latest commit ba53597 2 hours ago
+ History
+ 2 contributors
+@joecamer@Jordan2204
+7433 lines (7433 sloc)  258 KB
+  
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
@@ -7431,3 +7463,15 @@
     "platform-dev": [],
     "plugin-api-version": "1.1.0"
 }
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
